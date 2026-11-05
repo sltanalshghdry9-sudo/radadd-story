@@ -49,6 +49,15 @@ export default function Home() {
         <p style={{ marginTop: '20px', fontSize: '14px' }}>© 2026 رداد - دكانك وبنكك</p>
       </div>
 
-    </main>
+    </<div style={{ padding: '30px 20px', background: '#fff', color: '#000', textAlign: 'center' }}>
+<h2 style={{ fontSize: '26px' }}>🔄 المقايضة - سلعة بسلعة</h2>
+<p style={{ fontSize: '18px', fontWeight: 'bold' }}>عندك سلعة وما تحتاجها؟</p>
+<p style={{ fontSize: '18px' }}>وغيرك عنده السلعة اللي انت محتاجها؟</p>
+<p style={{ fontSize: '18px' }}>رداد يجمعكم ببعض، وكل واحد ياخذ سلعة الثاني</p>
+<p style={{ fontSize: '16px', color: '#555' }}>بدون فلوس - سلعتك مقابل سلعته - والكل رابح</p>
+<p style={{ fontSize: '22px', fontWeight: 'bold', color: '#D4AF37', marginTop: '20px' }}>رداد يبيع عنك وأنت نايم 😴💰</p>
+<p style={{ fontSize: '16px' }}>اعرض سلعتك، ونام مرتاح، ورداد يكمل البيع والبدل عنك</p>
+<a href="https://wa.me/967771081354" style={{ display: 'inline-block', background: '#000', color: '#D4AF37', padding: '15px 30px', borderRadius: '30px', fontWeight: 'bold', textDecoration: 'none', marginTop: '10px' }}>اعرض سلعتك الآن - واتساب</a>
+</div>>
   )
 }
