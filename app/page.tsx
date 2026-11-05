@@ -8,7 +8,7 @@ export default function Home() {
         <h2 style={{ fontSize: '30px' }}>RADAD</h2>
         <p style={{ color: '#D4AF37', fontSize: '26px', fontWeight: 'bold' }}>دكانك وبنكك</p>
         <p style={{ color: '#ccc', fontSize: '18px', lineHeight: '1.8' }}>كل شي تحتاجه في مكان واحد<br />تسوق من دكانك - وحول من بنكك</p>
-        <a href="https://wa.me/967000000000" style={{ display: 'inline-block', background: '#25D366', color: '#fff', padding: '15px 30px', borderRadius: '30px', fontSize: '20px', fontWeight: 'bold', textDecoration: 'none', marginTop: '20px' }}>اطلب الآن واتساب</a>
+        <a href="https://wa.me/967771081354" style={{ display: 'inline-block', background: '#25D366', color: '#fff', padding: '15px 30px', borderRadius: '30px', fontSize: '20px', fontWeight: 'bold', textDecoration: 'none', marginTop: '20px' }}>اطلب الآن واتساب</a>
       </div>
 
       {/* قسم دكانك */}
@@ -45,7 +45,7 @@ export default function Home() {
       <div style={{ padding: '40px 20px', background: '#D4AF37', color: '#000' }}>
         <h2 style={{ fontSize: '28px' }}>تواصل معنا</h2>
         <p style={{ fontSize: '18px' }}>صنعاء - اليمن</p>
-        <a href="https://wa.me/967000000000" style={{ display: 'inline-block', background: '#000', color: '#D4AF37', padding: '15px 30px', borderRadius: '30px', fontWeight: 'bold', textDecoration: 'none', marginTop: '10px' }}>واتساب - اطلب الآن</a>
+        <a href="https://wa.me/967771081354 style={{ display: 'inline-block', background: '#000', color: '#D4AF37', padding: '15px 30px', borderRadius: '30px', fontWeight: 'bold', textDecoration: 'none', marginTop: '10px' }}>واتساب - اطلب الآن</a>
         <p style={{ marginTop: '20px', fontSize: '14px' }}>© 2026 رداد - دكانك وبنكك</p>
       </div>
 
